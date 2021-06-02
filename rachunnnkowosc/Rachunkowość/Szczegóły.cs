@@ -2,7 +2,7 @@
 // Type: Rachunkowość.Szczegóły
 // Assembly: Rachunkowość, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 // MVID: 5C50F409-3FC2-4B43-B2E6-AC2E0CDC169B
-// Assembly location: C:\Users\kraken\Desktop\rachunkowość kowal\Rachunkowość projekt Michał Kowalczuk, Michał Kiezik, Daniel Duchnowski\Rachunkowość.exe
+
 
 using System;
 using System.CodeDom.Compiler;
