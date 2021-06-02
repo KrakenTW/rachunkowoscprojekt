@@ -1,8 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: Rachunkowość.Szczegóły
-// Assembly: Rachunkowość, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 5C50F409-3FC2-4B43-B2E6-AC2E0CDC169B
-
+﻿
 
 using System;
 using System.CodeDom.Compiler;
