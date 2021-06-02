@@ -1,0 +1,5 @@
+C:\Users\kraken\Desktop\rachunnnkowosc projekt\Rachunkowość\obj\Release\mainwindow.g.cs
+C:\Users\kraken\Desktop\rachunnnkowosc projekt\Rachunkowość\obj\Release\szczeg_0025c3_0025b3_0025c5_002582y.g.cs
+C:\Users\kraken\Desktop\rachunnnkowosc projekt\Rachunkowość\obj\Release\Rachunkowość_MarkupCompile.cache
+C:\Users\kraken\Desktop\rachunnnkowosc projekt\Rachunkowość\obj\Release\Rachunkowość_MarkupCompile.lref
+C:\Users\kraken\Desktop\rachunnnkowosc projekt\Rachunkowość\obj\Release\Rachunkowość.csproj.AssemblyReference.cache
