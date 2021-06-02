@@ -1,0 +1,10 @@
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\rachunkowosc.csproj.AssemblyReference.cache
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\MainWindow.g.cs
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\App.g.cs
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\rachunkowosc_MarkupCompile.cache
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\rachunkowosc_MarkupCompile.lref
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\MainWindow.baml
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\rachunkowosc.g.resources
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\rachunkowosc.Properties.Resources.resources
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\rachunkowosc.csproj.GenerateResource.cache
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Debug\rachunkowosc.csproj.CoreCompileInputs.cache

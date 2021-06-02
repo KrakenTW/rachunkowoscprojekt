@@ -1,0 +1,7 @@
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Release\MainWindow.baml
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Release\MainWindow.g.cs
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Release\rachunkowosc_MarkupCompile.cache
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Release\rachunkowosc.g.resources
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Release\rachunkowosc.Properties.Resources.resources
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Release\rachunkowosc.csproj.GenerateResource.cache
+C:\Users\kraken\Desktop\PROJEKT\Nowy folder\rachunkowosc\obj\Release\rachunkowosc.csproj.CoreCompileInputs.cache
